@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # Sorting_Visualizer
-=======
-# Sorting-Visualiser
->>>>>>> d4d9bdc2d0ae3ef15d2b17a9bcecd97240255e44
+This is sorting visualiser to visualise how the sorting is done with different algorithms.
